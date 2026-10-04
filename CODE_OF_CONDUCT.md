@@ -1,6 +1,6 @@
 # Community conduct
 
-GoingRusting welcomes people of all backgrounds and experience levels. These expectations apply to project issues, pull requests, and other community spaces managed by GoingRusting.
+RustingStudio welcomes people of all backgrounds and experience levels. These expectations apply to project issues, pull requests, and other community spaces managed by RustingStudio.
 
 ## Treat people with respect
 

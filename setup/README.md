@@ -15,15 +15,15 @@ python3 setup/apply-settings.py --apply  # publish and verify them
 
 The script checks access to all repositories before writing. It preserves existing topics and changes only descriptions and topics. Run it from this repository's checkout; it resolves the settings file relative to the script.
 
-Alternatively, update the organization description in [organization settings](https://github.com/organizations/GoingRusting/settings/profile), then use the gear beside **About** on each repository page to enter the prepared description and topics.
+Alternatively, update the organization description in [organization settings](https://github.com/organizations/RustingStudio/settings/profile), then use the gear beside **About** on each repository page to enter the prepared description and topics.
 
 ## Avatar
 
-Download [avatar.png](../assets/avatar.png), then open [organization profile settings](https://github.com/organizations/GoingRusting/settings/profile). Under the profile picture, choose **Upload new picture** and upload the image. The square copper G matches the banner; its source is [avatar.svg](../assets/avatar.svg).
+Download [avatar.png](../assets/avatar.png), then open [organization profile settings](https://github.com/organizations/RustingStudio/settings/profile). Under the profile picture, choose **Upload new picture** and upload the image. The square copper R matches the banner; its source is [avatar.svg](../assets/avatar.svg).
 
 ## Public pinned repositories
 
-Open [GoingRusting](https://github.com/GoingRusting), select **View as: Public**, and choose **Customize pins** or **pin repositories**. Select these three projects:
+Open [RustingStudio](https://github.com/RustingStudio), select **View as: Public**, and choose **Customize pins** or **pin repositories**. Select these three projects:
 
 1. RustingEngine
 2. RustingBrain
@@ -38,5 +38,6 @@ Save the selection. The profile README also features these projects with descrip
 - Cream: `#f5eee3`
 - Banner: [PNG](../assets/banner.png) · [SVG source](../assets/banner.svg)
 - Avatar: [PNG](../assets/avatar.png) · [SVG source](../assets/avatar.svg)
+- Standalone R: [transparent SVG](../RustingStudio.svg) · [PNG on charcoal](../RustingStudio.png)
 
 Keep the same mark and palette for future project artwork. Use actual project screenshots and clear project names, and keep text readable at small sizes.

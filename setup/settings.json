@@ -1,6 +1,6 @@
 {
   "organization": {
-    "name": "GoingRusting",
+    "name": "RustingStudio",
     "description": "Rethinking engines, machine learning, and graphics through Rust and GPU computing."
   },
   "repositories": {
@@ -21,7 +21,7 @@
       "topics": ["backend", "web-development", "rust", "golang", "typescript", "react"]
     },
     ".github": {
-      "description": "GoingRusting's organization profile, branding, and shared community guidance.",
+      "description": "RustingStudio's organization profile, branding, and shared community guidance.",
       "topics": ["github-profile", "community", "documentation", "rust"]
     }
   },

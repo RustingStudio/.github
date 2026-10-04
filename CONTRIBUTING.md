@@ -1,4 +1,4 @@
-# Contributing to GoingRusting
+# Contributing to RustingStudio
 
 Thank you for taking an interest in these projects. Bug fixes, clear documentation, useful examples, and reproducible performance measurements all help.
 
@@ -31,4 +31,4 @@ For performance work, provide the workload, hardware, build settings, and before
 
 Check the destination repository's license and contribution terms before submitting. Only contribute code and assets you have the right to provide.
 
-Please follow our [community conduct](https://github.com/GoingRusting/.github/blob/main/CODE_OF_CONDUCT.md). Questions about using a project belong in that project's issue tracker; see [support](https://github.com/GoingRusting/.github/blob/main/SUPPORT.md).
+Please follow our [community conduct](https://github.com/RustingStudio/.github/blob/main/CODE_OF_CONDUCT.md). Questions about using a project belong in that project's issue tracker; see [support](https://github.com/RustingStudio/.github/blob/main/SUPPORT.md).
