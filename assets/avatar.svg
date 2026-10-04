@@ -4,6 +4,6 @@
   <rect width="512" height="512" rx="112" fill="#16191d"/>
   <g transform="translate(64 64) scale(1.5)">
     <path d="M40 28H164L212 76V120L172 160H128L220 228H160L84 158V228H40ZM84 72V116H150L168 98V90L150 72Z" fill="#ef925e" fill-rule="evenodd"/>
-    <path d="M132 28H164V72H132Z" fill="#f5eee3"/>
+    <path d="M108 28H140V72H108Z" fill="#f5eee3"/>
   </g>
 </svg>
