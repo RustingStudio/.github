@@ -2,12 +2,13 @@
   <img src="https://raw.githubusercontent.com/RustingStudio/.github/main/assets/banner.png" alt="RustingStudio — Engines, intelligence, and graphics" width="100%">
 </p>
 
-We explore how **Rust and GPU computing** can reshape game engines, machine learning, and real-time graphics. RustingStudio is home to independent projects built around that curiosity.
+We explore how **Rust and GPU computing** can reshape game engines, machine learning, LLM inference, and real-time graphics. RustingStudio is home to independent projects built around that curiosity.
 
 ### Find your starting point
 
 | Project | What it does | Start here |
 | :--- | :--- | :--- |
+| [**RustingStrata**](https://github.com/RustingStudio/RustingStrata) | A pure-Rust inference engine for Qwen GGUF models (35B, 80B MoE and more) on consumer GPUs. CUDA and Vulkan, experts that do not fit in VRAM run on the CPU, MTP speculative decoding, OpenAI- and Anthropic-compatible server. Up to ~1.7x llama.cpp decode on a 12 GB RTX 3060. | [Quick start](https://github.com/RustingStudio/RustingStrata#build) · [Benchmarks](https://github.com/RustingStudio/RustingStrata#numbers) · [Releases](https://github.com/RustingStudio/RustingStrata/releases) |
 | [**RustingEngine**](https://github.com/RustingStudio/RustingEngine) | A Rust game engine with Vulkan rendering, an editor, and hybrid CPU/GPU physics. | [Getting started](https://github.com/RustingStudio/RustingEngine/blob/main/docs/getting-started.md) · [Releases](https://github.com/RustingStudio/RustingEngine/releases) |
 | [**RustingBrain**](https://github.com/RustingStudio/RustingBrain) | A deep-learning library in Rust, from small neural networks to transformer models, with CPU and GPU backends. | [Installation & examples](https://github.com/RustingStudio/RustingBrain#install) · [Tutorials](https://github.com/RustingStudio/RustingBrain/blob/main/tutorials/README.md) |
 | [**RustingShader**](https://github.com/RustingStudio/RustingShader) | A cinematic Iris shader pack for Minecraft, featuring volumetric skies, reflective water, and a black hole in the End. Built in GLSL. | [Installation](https://github.com/RustingStudio/RustingShader#installation) · [Downloads](https://github.com/RustingStudio/RustingShader/releases) |
